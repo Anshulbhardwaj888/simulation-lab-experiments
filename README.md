@@ -11,6 +11,12 @@ Ques:-
 
 
 Solution:-
+
+
+
+
+
+
 ![simulation](https://user-images.githubusercontent.com/77485368/127123789-79a6c565-d6f5-4c21-80ee-732543d22827.PNG)
 ![Capture66666666](https://user-images.githubusercontent.com/77485368/127123755-cb6c42f8-4766-46f7-b049-6766fafa670c.PNG)
 
