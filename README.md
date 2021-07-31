@@ -23,7 +23,7 @@ Solution:-
 
 
 Experiment 2
-![Screenshot (28)](https://user-images.githubusercontent.com/77485368/127749481-dfd99c21-c347-42c9-9ed9-fb121a96a2cc.png)
+
 ![Screenshot (29)](https://user-images.githubusercontent.com/77485368/127749484-2eaf1472-5017-46b6-a129-670fd9a06e6e.png)
 ![Screenshot (30)](https://user-images.githubusercontent.com/77485368/127749485-d0e52b5c-f317-4849-868f-9d432d32aff1.png)
 
