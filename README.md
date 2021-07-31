@@ -23,9 +23,9 @@ Solution:-
 
 
 Experiment 2
+![Screenshot (29)](https://user-images.githubusercontent.com/77485368/127749535-1469b597-1a6b-442e-905a-3351d60bc4dc.png)
+![Screenshot (30)](https://user-images.githubusercontent.com/77485368/127749537-762ba25e-1bea-4e16-b1ba-c9d9096018e7.png)
 
-![Screenshot (29)](https://user-images.githubusercontent.com/77485368/127749484-2eaf1472-5017-46b6-a129-670fd9a06e6e.png)
-![Screenshot (30)](https://user-images.githubusercontent.com/77485368/127749485-d0e52b5c-f317-4849-868f-9d432d32aff1.png)
 
 
 Solution:-
