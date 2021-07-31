@@ -3,14 +3,14 @@ Modelling is the process of representing a model which includes its construction
 
 Simulation of a system is the operation of a model in terms of time or space, which helps analyze the performance of an existing or a proposed system. In other words, simulation is the process of using a model to study the performance of a system. It is an act of using a model for simulation.
 
-Experiment 1
+# Experiment 1
 
 Ques:-
 ![new99](https://user-images.githubusercontent.com/77485368/127199680-d778cb52-5284-444c-99d6-721a01429145.PNG)
 ![new2](https://user-images.githubusercontent.com/77485368/127199729-c1f17fa8-1716-4631-b6ed-52494022c42a.PNG)
 
 
-Solution:-
+# Solution:-
 
 
 
@@ -22,13 +22,13 @@ Solution:-
 
 
 
-Experiment 2
+# Experiment 2
 ![Screenshot (29)](https://user-images.githubusercontent.com/77485368/127749535-1469b597-1a6b-442e-905a-3351d60bc4dc.png)
 ![Screenshot (30)](https://user-images.githubusercontent.com/77485368/127749537-762ba25e-1bea-4e16-b1ba-c9d9096018e7.png)
 
 
 
-Solution:-
+# Solution:-
 
 ![tyre problem](https://user-images.githubusercontent.com/77485368/127749497-388360cd-d941-4b13-a05c-f9fef4f758ea.jpeg)
 
