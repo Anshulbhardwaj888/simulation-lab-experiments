@@ -20,3 +20,19 @@ Solution:-
 ![simulation](https://user-images.githubusercontent.com/77485368/127123789-79a6c565-d6f5-4c21-80ee-732543d22827.PNG)
 ![Capture66666666](https://user-images.githubusercontent.com/77485368/127123755-cb6c42f8-4766-46f7-b049-6766fafa670c.PNG)
 
+
+
+Experiment 2
+![Screenshot (28)](https://user-images.githubusercontent.com/77485368/127749481-dfd99c21-c347-42c9-9ed9-fb121a96a2cc.png)
+![Screenshot (29)](https://user-images.githubusercontent.com/77485368/127749484-2eaf1472-5017-46b6-a129-670fd9a06e6e.png)
+![Screenshot (30)](https://user-images.githubusercontent.com/77485368/127749485-d0e52b5c-f317-4849-868f-9d432d32aff1.png)
+
+
+Solution:-
+
+![tyre problem](https://user-images.githubusercontent.com/77485368/127749497-388360cd-d941-4b13-a05c-f9fef4f758ea.jpeg)
+
+
+
+
+
