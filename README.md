@@ -32,6 +32,16 @@ Ques:-
 
 ![tyre problem](https://user-images.githubusercontent.com/77485368/127749497-388360cd-d941-4b13-a05c-f9fef4f758ea.jpeg)
 
+# Experiment 3
+
+
+
+![Screenshot (46)](https://user-images.githubusercontent.com/77485368/131219532-3c2c3a26-f39e-4ecb-917e-a1892dbd729a.png)
+![Screenshot (47)](https://user-images.githubusercontent.com/77485368/131219535-f1bedcc3-b705-4db9-b19e-3d590bbfcdc7.png)
+
+# Solution:-
+![Screenshot (45)](https://user-images.githubusercontent.com/77485368/131219445-d9f82500-2113-4eec-a706-1c88fa38dc5c.png)
+
 
 
 
