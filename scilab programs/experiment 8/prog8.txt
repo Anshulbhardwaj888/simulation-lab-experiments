@@ -1,0 +1,11 @@
+disp('Ente r the value of dice roll')
+A(1,:)=[1,2,3,4,5,6]
+M=sum(A)/6;
+d i s p ( M )
+f o r i=1:6;
+T ( i ) = ( M - A(1,i))^2
+V=(sum(T(i))/5);
+ e n d
+ d i s p ( V )
+plot(A(i),V,"*")
+
